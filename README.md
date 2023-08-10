@@ -16,7 +16,7 @@ This is the source code of laravel content translation video tutorial available 
 - [Visit author's website](https://www.salman.be).
 - [Laravel Translatable plugin credit](https://github.com/Astrotomic).
 
-### Tutorial Technologies
+## Tutorial Technologies
 
 - Laravel
 - Bootstrap 5
